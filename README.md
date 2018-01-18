@@ -26,7 +26,7 @@ Create a Dashbord Fullpage image using BS / JQ / API from Unsplash
 => Select A RANDOM image from /list API and be creative ("should change all the time")
 
 
-### STEP 2 (15 - 30 min / 13:30 - 14:00 )
+### STEP 2 (15 min.)
 
 Add a Quote to your dashboard
 
@@ -37,7 +37,7 @@ Add a Quote to your dashboard
 => Style the CSS
 
 
-### STEP 3 (30 min.)
+### STEP 3 (15 min.)
 
 Add Time and Date
 
@@ -90,7 +90,4 @@ https://github.com/BlackrockDigital/startbootstrap-full
 
 Clone, run 'npm install' and then run 'gulp dev' which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the gulpfile.js to see which tasks are included with the dev environment."
 
-=> Use the API from Unsplash (you can use PICSUM PHOTOS - make it easyer!)
-
-=> Select the images from /list and be creative ("should not be the firsts or lasts")
 
